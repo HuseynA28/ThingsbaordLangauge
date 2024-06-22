@@ -5,7 +5,6 @@ This project is designed to translate JSON files containing localized strings in
 ## Prerequisites
 
 - Python 3.x
-- `requests` library (`pip install requests`)
 
 ## Setup
 
